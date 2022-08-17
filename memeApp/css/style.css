@@ -1,0 +1,43 @@
+.page-container{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background: linear-gradient(lightyellow, orange);
+    height: 1080px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+img{
+    
+    object-fit: cover
+    
+}
+button{
+    text-align: center;
+    font-size: 2rem;
+    color:blue;
+    background-color: orange;
+    border: 2px solid black;
+    height: 100px;
+    margin-top: 15%;
+}
+button:hover{
+    background-color: black;
+    color: orange;
+}
+#yes:hover{
+    color: green;
+}
+#no:hover{
+    color: red
+}
+
+.img-container{
+    height: 300px;
+    width: 100%;
+}
+.div-button{
+    height: 200px;
+    width: 100%;
+}
